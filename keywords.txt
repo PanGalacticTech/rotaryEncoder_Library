@@ -1,0 +1,10 @@
+rotaryEncoder	KEYWORD1
+buttonLoop	KEYWORD2
+
+begin		KEYWORD2
+encodeDirection	KEYWORD2
+resetEncoder	KEYWORD2
+isr		KEYWORD2
+rotaryUp		KEYWORD2
+rotaryDown	KEYWORD2
+buttonDown	KEYWORD2
