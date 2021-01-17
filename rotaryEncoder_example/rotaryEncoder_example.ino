@@ -20,8 +20,8 @@
 
 
 
-#include <autoDelay.h>
-#include <ledObject.h>
+#include <autoDelay.h>       // Used for delaying Serial printing, otherwise not required. Available @:  https://github.com/PanGalacticTech/autoDelay_Library
+#include <ledObject.h>       // Required Dependancy Available @:                                         https://github.com/PanGalacticTech/buttonObject_Library                                      
 
 
 #include "rotaryEncoder.h"
