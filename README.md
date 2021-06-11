@@ -10,18 +10,18 @@ Uses public class buttonObject from buttonObject.h library.
  
 > 
 > /* --------------- Rotary Encoder Library - Example -----------------
->  * 
->  *  Library to simplify the implementation of Rotary Encoders for inclusion with
->    User Interfaces.
->    My aim for this library was to make rotaryEncoder a Derived Class of button, and
->    inheret all the functions from the buttonObject library, as well as add in methods
->    to record the direction the rotary encoder is turning.
->   Declan Heard
->   Pan Galactic Tech
->   16/08/2020
->   Released for Public Use
-> * 
-> * 
+>   
+>   Library to simplify the implementation of Rotary Encoders for inclusion with <br>
+>   User Interfaces. <br>
+>   My aim for this library was to make rotaryEncoder a Derived Class of button, and <br>
+>   inheret all the functions from the buttonObject library, as well as add in methods <br>
+>   to record the direction the rotary encoder is turning. <br>
+>   Declan Heard  <br>
+>   Pan Galactic Tech   <br>
+>   16/08/2020   <br>
+>   Released for Public Use   <br>
+>    <br>
+>     <br>
 > */
  
 Hardware Interrupts
