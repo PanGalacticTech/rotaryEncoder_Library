@@ -8,7 +8,7 @@
     to record the direction the rotary encoder is turning.
 
 
-   Declan Heard
+   Imogen Heard
    Pan Galactic Tech
    16/08/2020
 
