@@ -4,8 +4,7 @@
     User Interfaces.
 
 
-   Declan Heard
-   Pan Galactic Tech
+   Imogen Wren   Pan Galactic Tech
    16/08/2020
 
    Released for public use
