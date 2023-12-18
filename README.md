@@ -16,7 +16,7 @@ Uses public class buttonObject from buttonObject.h library.
 >   My aim for this library was to make rotaryEncoder a Derived Class of button, and <br>
 >   inheret all the functions from the buttonObject library, as well as add in methods <br>
 >   to record the direction the rotary encoder is turning. <br>
->   Declan Heard  <br>
+>   Imogen Wren  <br>
 >   Pan Galactic Tech   <br>
 >   16/08/2020   <br>
 >   Released for Public Use   <br>
