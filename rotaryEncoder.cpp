@@ -7,7 +7,7 @@
     inheret all the functions from the buttonObject library.
 
 
-   Declan Heard
+   Imogen Wren
    Pan Galactic Tech
    16/08/2020
 
